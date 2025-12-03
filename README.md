@@ -9,6 +9,9 @@ A powerful no-code workflow automation platform with role-based access, real Gma
 - **Course:** Mini-Project
 - **Date:** November 28, 2025
 
+- DEPLOYED MODEL__
+- https://agentic-automation-workflow-builder-orpin.vercel.app/
+
 ## ✨ Key Features
 
 - ✅ **Role-Based Dashboards** - User, Employee, and Manager roles with different permissions
